@@ -23,4 +23,4 @@ RUN python manage.py migrate
 # Run database migrations and start the Django application
 ENTRYPOINT ["python", "manage.py", "runserver", "0.0.0.0:8080"]
 
-Start 
+To avoid losing your current streak
